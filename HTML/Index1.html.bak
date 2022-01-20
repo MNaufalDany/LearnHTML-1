@@ -1,0 +1,36 @@
+!DOCTYPE html>
+<html>
+	<head>
+		<title> Sekolah Koding </title>
+		<meta charset="UTF-8">
+	</head>
+	
+	<body>
+	
+		<!--menu website-->
+		<div>
+			<a href="Index1.html">Home</a>
+			<a href="Kontak.html">Kontak</a>
+		</div>
+	
+		<div>
+			<h1> Sekolah Koding <h1>
+			<h3> Tutorial Online Untuk Belajar <span>Membuat Website<span> </h3>
+			<h6> Cara Termudah Bagi Pemula Dalam Belajar Membuat Website </h6>
+		</div>
+		
+		<div>
+			<p> Selamat Datang Di Website <br> Sekolah Koding </p>
+			<a href="https://facebook.com"> Login Now In Facebook! </a>
+			<a href="https://twitter.com" target="_blank"> Login Now In Twitter! </a>
+		</div>
+		
+		<div>
+			<img src="https://www.ryrob.com/wp-content/uploads/2019/08/How-to-Make-a-Website-in-3-Easy-Steps-Beginners-Guide-and-Tutorial.jpg" alt="Logo Cara Membuat Website" height="200" width="250">
+			<p> Kita akan <em>belajar</em> cara menformat <i>text</i> pada <b>html</b> </p>
+			<iframe src="http://sekolahkoding.com" height="500" width="500" </iframe>
+		</div>
+		
+		<p> &copy; Sekolah Koding</p>
+	</body>
+</html>
